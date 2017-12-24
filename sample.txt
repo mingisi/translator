@@ -1,0 +1,417 @@
+{translate}Thank You{/translate}
+{translate}from{/translate}
+{translate}Your inquiry was successful, we will be in touch shortly{/translate}
+{translate}For additional assistance please call us on{/translate}
+{translate}For additional assistance please call us on{/translate}
+{translate}Edit Content{/translate}
+{translate}{$panel_title}{/translate}
+{translate}Multiple Links{/translate}
+{translate}Text{/translate}
+{translate}URL{/translate}
+{translate}Remove Link{/translate}
+{translate}Text{/translate}
+{translate}URL{/translate}
+{translate}Remove Link{/translate}
+{translate}Add another link{/translate}
+{translate}{$panel_title}{/translate}{else}{translate}Text / Image{/translate}
+{translate}Add Image{/translate}
+{translate}Image zoom{/translate}
+{translate}Title{/translate}
+{translate}Content{/translate}
+{translate}Link Title{/translate}
+{translate}URL{/translate}
+{translate}Published{/translate}
+{translate}{$daySuffix}{/translate} {translate}{$month}{/translate}
+{translate}Career Application - {/translate}
+{translate}APPLY NOW{/translate}
+{translate}Back to Careers{/translate}
+{translate}Back to Careers{/translate}
+{translate}Read More{/translate}
+{translate}Read More{/translate}
+{translate}Compare{/translate}
+{translate}Compare key features and specifications of up to 3 Ferrari vehicles side-by-side{/translate}
+{translate}Overview{/translate}
+{translate}Body Style{/translate}
+{translate}Exterior Colour{/translate}
+{translate}Interior Trim{/translate}
+{translate}Odometer{/translate}
+{translate}Displacement{/translate}
+{translate}Transmission{/translate}
+{translate}Fuel{/translate}
+{translate}Optional Extras{/translate}
+{translate}<%= extra %>{/translate}
+{translate}{$title.$k|capitalize}{/translate}
+{translate}{$leadData.{$value}}{/translate}
+{translate}Event Date{/translate}
+{translate}Location{/translate}
+{translate}Published{/translate}
+{translate}SAVE THE DATE{/translate}
+{translate}Back to News and Events{/translate}
+{translate}{$mode} Band{/translate}
+{translate}Locking{/translate}
+{translate}Margins{/translate}
+{translate}Off{/translate}
+{translate}On{/translate}
+{translate}Full Width{/translate}
+{translate}Off{/translate}
+{translate}On{/translate}
+{translate}Background Colour{/translate}
+{translate}Background<br />Image{/translate}
+{translate}Spacing{/translate}
+{translate}{$bandLayout.title}{/translate}
+{translate}Delete Band{/translate}
+{translate}Contact Us{/translate}
+{translate}Tel{/translate}
+{translate}Enter Zipcode for directions{/translate}
+{translate}{$key|capitalize}{/translate}
+{translate}{$dealerStatus}{/translate}
+{translate}Closed{/translate}
+{translate}EXTERIOR: {/translate}
+{translate}INTERIOR: {/translate}
+{translate}ODOMETER: {/translate}
+{translate}View details{/translate}
+{translate}Enquire{/translate}
+{translate}Compare{/translate}
+{translate}Save To Shortlist{/translate}
+{translate}Save{/translate}
+{translate}View all vehicles{/translate}
+{translate}View inventory{/translate}
+{translate}See More{/translate}
+{translate}Subscribe Form{/translate}
+{translate}Interest{/translate}
+{translate}{$list->name}{/translate}
+{translate}Subscribe{/translate}
+{translate}Please wait{/translate}
+{translate}Reset{/translate}
+{translate}NEWSLETTER_THANK_YOU_MESSAGE{/translate}
+{translate}Opening Hours{/translate}
+{translate}{$key|capitalize}{/translate}
+{translate}Closed{/translate}
+{translate}First name can't be numbers only.{/translate}
+{translate}Last name can't be numbers only.{/translate}
+{translate}Email or phone number is required.{/translate}
+{translate}Any Make{/translate}
+{translate}Any Model{/translate}
+{translate}Any Class{/translate}
+{translate}Any Bodystyle{/translate}
+{translate}Any Color{/translate}
+{translate}No Vehicles{/translate}
+{translate}Available{/translate}
+{translate}Any Make{/translate}
+{translate}Any Model{/translate}
+{translate}Any Class{/translate}
+{translate}Any Bodystyle{/translate}
+{translate}Price From{/translate}
+{translate}Price From{/translate}
+{translate}Price To{/translate}
+{translate}Price To{/translate}
+{translate}Year From{/translate}
+{translate}Year From{/translate}
+{translate}Year To{/translate}
+{translate}Year To{/translate}
+{translate}Any Color{/translate}
+{translate}Any Color{/translate}
+{translate}Any Mileage{/translate}
+{translate}Any Mileage{/translate}
+{translate}Search Now{/translate}
+{translate}Offer Type{/translate}
+{translate}Reset{/translate}
+{translate}Offer Details{/translate}
+{translate}Offer Details{/translate}
+{translate}Load More{/translate}
+{translate}Vehicles Found{/translate}
+{translate}Please adjust your search criteria or reset your search{/translate}
+{translate}Reset Search{/translate}
+{translate}ENQUIRE{/translate}
+{translate}VIEW DETAILS{/translate}
+{translate}This website uses cookies. By continuing to browse this site you are agreeing to our {/translate}<a href="{translate}URLCookiePolicy{/translate}"  class="cookie-bar__link" target="_blank;">{translate}cookie policy.{/translate}
+{translate}CONTINUE{/translate}
+{translate}Open{/translate}
+{translate}Closed{/translate}
+{translate}GEO{/translate}
+{translate}Enter Zipcode for directions{/translate}
+{translate}Get in Touch{/translate}
+{translate}Tel{/translate}
+{translate}Contact Us{/translate}
+{translate}Opening Hours{/translate}
+{translate}{$key|capitalize}{/translate}
+{translate}{$dealerStatus}{/translate}
+{translate}Closed{/translate}
+{translate}Contact us{/translate}
+{translate}Find us{/translate}
+{translate}Footer copyright{/translate}
+{translate}Enquiry Type{/translate}
+{translate}General Enquiry{/translate}
+{translate}Reserve{/translate}
+{translate}Request Test Drive{/translate}
+{translate}Request Brochure{/translate}
+{translate}Title{/translate}
+{translate}Choose{/translate}
+{translate}Mr{/translate}
+{translate}Mrs{/translate}
+{translate}Miss{/translate}
+{translate}Ms{/translate}
+{translate}First name*{/translate}
+{translate}Last name*{/translate}
+{translate}Email*{/translate}
+{translate}Telephone number*{/translate}
+{translate}Write a comment here{/translate}
+{translate}Fields marked with an asterisk (*) must be provided{/translate}
+{translate}Submit Message{/translate}
+{translate}IMPORTANT CONSUMER INFORMATION: In providing this information you consent to be contacted using the above methods of communication, unless you indicate otherwise by ticking any of the boxes below. Jaguar Land Rover will use any information collected to inform you about products and services and to improve how we serve you. Your data will be treated in accordance with the Data Protection Act 1998. Your information will only be disclosed to Jaguar Land Rover, its dealers, franchise partners, agencies, affiliated or associated companies providing services for your benefit. If you wish to update or rectify the data you have voluntarily given us, please contact Jaguar Land Rover on 0800 110 110.{/translate}
+{translate}Email{/translate}
+{translate}Telephone{/translate}
+{translate}SMS{/translate}
+{translate}Thank you for your enquiry, one of our representatives will get back to you shortly.{/translate}
+{translate}Contact Us{/translate}
+{translate}Please choose your inquiry type{/translate}
+{translate}General Inquiry{/translate}
+{translate}Service Inquiry{/translate}
+{translate}Your Details{/translate}
+{translate}First name{/translate}*" data-parsley-pattern-message="{translate}First name can't be numbers only.{/translate}
+{translate}Last name{/translate}*" data-parsley-pattern-message="{translate}Last name can't be numbers only.{/translate}
+{translate}Contact me by:{/translate}
+{translate}Email or phone number is required.{/translate}
+{translate}Email{/translate}
+{translate}Phone{/translate}
+{translate}Email{/translate}
+{translate}Phone number{/translate}
+{translate}Anytime{/translate}
+{translate}Morning{/translate}
+{translate}Evening{/translate}
+{translate}Anything else you'd like to add?{/translate}
+{translate}Write a comment here{/translate}
+{translate}We respect {/translate} <a href="/privacy-policy" target="_newtab" onClick="mtui.forms.privacyPolicy()">{translate}your policy{/translate}</a>. {translate}Your information will only be used to contact you about this request{/translate}
+{translate}Contact Us{/translate}
+{translate}Please choose your inquiry type{/translate}
+{translate}General Inquiry{/translate}
+{translate}Service Inquiry{/translate}
+{translate}Your Details{/translate}
+{translate}First name{/translate}*" data-parsley-pattern-message="{translate}First name can't be numbers only.{/translate}
+{translate}Last name{/translate}*" data-parsley-pattern-message="{translate}Last name can't be numbers only.{/translate}
+{translate}Email{/translate}
+{translate}Phone number{/translate}
+{translate}Anytime{/translate}
+{translate}Morning{/translate}
+{translate}Evening{/translate}
+{translate}Contact me by:{/translate}
+{translate}Email or phone number is required.{/translate}
+{translate}Email{/translate}
+{translate}Phone{/translate}
+{translate}Anything else you'd like to add?{/translate}
+{translate}Write a comment here{/translate}
+{translate}We respect {/translate} <a href="/privacy-policy" target="_newtab" onClick="mtui.forms.privacyPolicy()">{translate}your policy{/translate}</a>. {translate}Your information will only be used to contact you about this request{/translate}
+{translate}First Name{/translate} *" name="firstname" data-parsley-pattern-message="{translate}First name can't be numbers.{/translate}
+{translate}Last Name{/translate} *" name="lastname" data-parsley-pattern-message="{translate}Last name can't be numbers.{/translate}
+{translate}Contact me by:{/translate}
+{translate}Email or phone number is required.{/translate}
+{translate}Email{/translate}
+{translate}Phone{/translate}
+{translate}Email{/translate}
+{translate}Phone number{/translate}
+{translate}Anytime{/translate}
+{translate}Morning{/translate}
+{translate}Evening{/translate}
+{translate}Anything else you'd like to add?{/translate}
+{translate}First Name{/translate} *" name="firstname" data-parsley-pattern-message="{translate}First name can't be numbers.{/translate}
+{translate}Last Name{/translate} *" name="lastname" data-parsley-pattern-message="{translate}Last name can't be numbers.{/translate}
+{translate}Contact me by:{/translate}
+{translate}Email or phone number is required.{/translate}
+{translate}Email{/translate}
+{translate}Phone{/translate}
+{translate}Email{/translate}
+{translate}Phone number{/translate}
+{translate}Anytime{/translate}
+{translate}Morning{/translate}
+{translate}Evening{/translate}
+{translate}Anything else you'd like to add?{/translate}
+{translate}Global Events{/translate}
+{translate}{$language.title}{/translate}
+{translate}Ferrari Logo{/translate}
+{translate}Ferrari Official Dealer{/translate}
+{translate}{$language.title}{/translate}
+{translate}Contact Us{/translate}
+{translate}Find Us{/translate}
+{translate}Dealer Disclaimer: {/translate}</span>{translate}Ferrari {/translate}{$items.dealer.name}{translate} makes every effort to ensure that the information contained on the website is accurate and complete.{/translate}
+{translate}Certification{/translate}
+{translate}Ferrari Approved Only{/translate}
+{translate}Models{/translate}
+{translate}Price{/translate}
+{translate}From{/translate}
+{translate}Up to{/translate}
+{translate}Model Type{/translate}
+{translate}Any{/translate}
+{translate}V12{/translate}
+{translate}V8{/translate}
+{translate}Transmission{/translate}
+{translate}F1{/translate}
+{translate}Manual{/translate}
+{translate}Automatic{/translate}
+{translate}Bodystyle{/translate}
+{translate}Any{/translate}
+{translate}Coupe{/translate}
+{translate}Spider{/translate}
+{translate}Colour{/translate}
+{translate}White{/translate}"><span class="tooltip">{translate}White{/translate}
+{translate}Black{/translate}"><span class="tooltip">{translate}Black{/translate}
+{translate}Blue{/translate}"><span class="tooltip">{translate}Blue{/translate}
+{translate}Green{/translate}"><span class="tooltip">{translate}Green{/translate}
+{translate}Red{/translate}"><span class="tooltip">{translate}Red{/translate}
+{translate}Silver{/translate}" data-tooltip="I’m the tooltip text."><span class="tooltip">{translate}Silver{/translate}
+{translate}Yellow{/translate}"><span class="tooltip">{translate}Yellow{/translate}
+{translate}Other{/translate}"><span class="tooltip">{translate}Other{/translate}
+{translate}Features{/translate}
+{translate}Age{/translate}
+{translate}From{/translate}
+{translate}Up to{/translate}
+{translate}Odometer{/translate}
+{translate}Up to{/translate}
+{translate}Reset Search{/translate}
+{translate}Close{/translate}
+{translate}All{/translate}
+{translate}All{/translate}
+{translate}Pre-owned Ferrari Available{/translate}
+{translate}Pre-owned Ferrari's Available{/translate}
+{translate}Pre-owned Ferrari's Available{/translate}
+{translate}Price low to high{/translate}
+{translate}Price high to low{/translate}
+{translate}Mileage low to high{/translate}
+{translate}Mileage high to low{/translate}
+{translate}Year low to high{/translate}
+{translate}Year high to low{/translate}
+{translate}Saved{/translate}
+{translate}Shortlist{/translate}
+{translate}Compare{/translate}
+{translate}Saved{/translate}{literal}  (<%= data.list.total %>)</span><span class="search-tools__text search-tools__text--tablet">{/literal}{translate}Shortlist{/translate}
+{translate}Compare{/translate}
+{translate}Go To{/translate}
+{translate}{$key}{/translate}, {if $item.closed_all_day != 'yes'} {if $item.close_am != '' && $item.open_pm != ''} {$item.open_am} - {$item.close_am}&nbsp;&nbsp;&nbsp;{$item.open_pm} - {$item.close_pm} {elseif $item.open_am == '' && $item.close_pm == ''} {$item.open_am} - {$item.close_am} {elseif $item.open_am == '' && $item.close_am == '' && $item.open_pm != '' && $item.close_pm != ''} {$item.open_pm} - {$item.close_pm} {elseif $item.open_am != '' && $item.close_am != '' && $item.open_pm == '' && $item.close_pm == ''} {$item.open_am} - {$item.close_am} {else} {$item.open_am} - {$item.close_pm} {/if} {else} {translate}Closed{/translate}
+{translate}Approved Pre-Owned{/translate} {else if $data.vehicle_type === 'used'}{translate}Pre-Owned{/translate} {else if $data.vehicle_type === 'new'}{translate}New{/translate}
+{translate}ApprovedPre-Owned{/translate}{else if $data.vehicle_type === 'used'}{translate}Pre-Owned{/translate}{else if $data.vehicle_type === 'new'}{translate}New{/translate}
+{translate}Share This Page{/translate}
+{translate}Share on {/translate}
+{translate}Compare{/translate}
+{translate}Save To Shortlist{/translate}
+{translate}Call us on{/translate}
+{translate}QR Code{/translate}
+{translate}Dealer Information{/translate}
+{translate}Get directions{/translate}
+{translate}Opening Hours{/translate}
+{translate}{$key|capitalize}{/translate}
+{translate}Closed{/translate}
+{translate}Call Us{/translate}
+{translate}Enquire{/translate}
+{translate}Saved{/translate}
+{translate}Shortlist{/translate}
+{translate}Compare{/translate}
+{translate}Back to results{/translate}
+{translate}Previous{/translate}
+{translate}Next{/translate}
+{translate}Previous{/translate}
+{translate}Next{/translate}
+{translate}Compare{/translate}
+{translate}Back to results{/translate}
+{translate}Previous{/translate}
+{translate}Next{/translate}
+{translate}Previous{/translate}
+{translate}Next{/translate}
+{translate}Saved{/translate}{literal}  (<%= data.list.total %>)</span><span class="utility-bar__text utility-bar--tablet">{/literal}{translate}Shortlist{/translate}
+{translate}Compare{/translate}
+{translate}Options{/translate}
+{translate}Standard Features{/translate}
+{translate}Technical Specifications{/translate}
+{translate}Dealer Notes{/translate}
+{translate}Specifications{/translate}
+{translate}Engine{/translate}</span>{if  $data.translations.default.tech_specs.engine}{$data.translations.default.tech_specs.engine}{else}{translate}No engine data available.{/translate}
+{translate}Top Speed{/translate}</span>{if $data.translations.default.tech_specs.top_speed}{$data.translations.default.tech_specs.top_speed}{else}{translate}No top speed data available.{/translate}
+{translate}Power{/translate}</span>{if $data.translations.default.tech_specs.power}{$data.translations.default.tech_specs.power}{else}{translate}No power data available.{/translate}
+{translate}Exterior Color{/translate}
+{translate}Interior Trim{/translate}
+{translate}Transmission{/translate}
+{translate}Bodystyle{/translate}
+{translate}Capacity{/translate}
+{translate}Odometer{/translate}
+{translate}Fuel{/translate}
+{translate}Used{/translate}
+{translate}Available at{/translate}
+{translate}Test Drive{/translate}
+{translate}Apply for Credit{/translate}
+{translate}Quick Contact{/translate}
+{translate}Send Message{/translate}
+{translate}Please wait{/translate}
+{translate}Thank you, one of our representatives will get back to you shortly.{/translate}
+{translate}For sale in{/translate}
+{translate}Exterior Colour{/translate}
+{translate}Interior Trim{/translate}
+{translate}Transmission{/translate}
+{translate}Bodystyle{/translate}
+{translate}Capacity{/translate}
+{translate}Odometer{/translate}
+{translate}Fuel{/translate}
+{translate}Enquire Now{/translate}
+{translate}Enter start point{/translate}
+{translate}{$key|capitalize}{/translate}
+{translate}Closed{/translate}
+{translate}Ferrari Official Dealer{/translate}
+{translate}Print{/translate}
+{translate}Invalid start location, please try again.{/translate}
+{translate}Pages{/translate}
+{translate}news and events{/translate}
+{translate}EXTERIOR: {/translate}
+{translate}INTERIOR: {/translate}
+{translate}ODOMETER: {/translate}
+{translate}View details{/translate}
+{translate}Enquire{/translate}
+{translate}Compare{/translate}
+{translate}Remove{/translate}
+{translate}Save To Shortlist{/translate}
+{translate}Remove{/translate}
+{translate}Save{/translate}
+{translate}Call{/translate}
+{translate}Specification{/translate}
+{translate}Model{/translate}
+{translate}Price{/translate}
+{translate}Exterior Colour{/translate}
+{translate}Bodystyle{/translate}
+{translate}Interior Trim{/translate}
+{translate}Transmission{/translate}
+{translate}Fuel{/translate}
+{translate}Capacity{/translate}
+{translate}Odometer{/translate}
+{translate}Features{/translate}
+{translate}No features listed.{/translate}
+{translate}Options{/translate}
+{translate}No options listed.{/translate}
+{translate}Your Saved Content{/translate}
+{translate}Save your favourite content to this page{/translate}
+{translate}More Results{/translate}
+{translate}EXTERIOR: {/translate}
+{translate}INTERIOR: {/translate}
+{translate}ODOMETER: {/translate}
+{translate}View details{/translate}
+{translate}Enquire{/translate}
+{translate}Compare{/translate}
+{translate}Save To Shortlist{/translate}
+{translate}Save{/translate}
+{translate}Contact{/translate}
+{translate}Contact{/translate}
+{translate}For Sale in{/translate}
+{translate}Enquire Now{/translate}
+{translate}Enquire Now{/translate}
+{translate}Saved{/translate}{literal}  (<%= data.list.total %>)</span><span class="utility-bar__text utility-bar--tablet">{/literal}{translate}Shortlist{/translate}
+{translate}Loading{/translate}...</span></span>  {translate}Pre-Owned{/translate}
+{translate}For Sale in{/translate}
+{translate}Saved Car Shortlist{/translate}
+{translate}Pre-Owned Ferrari{/translate}
+{translate}For Sale in{/translate}
+{translate}Back{/translate}
+{translate}EXTERIOR: {/translate}
+{translate}INTERIOR: {/translate}
+{translate}ODOMETER: {/translate}
+{translate}View details{/translate}
+{translate}Enquire{/translate}
+{translate}Compare{/translate}
+{translate}Remove{/translate}
+{translate}Save To Shortlist{/translate}
+{translate}Remove{/translate}
+{translate}Save{/translate}
